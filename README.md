@@ -1,6 +1,6 @@
-# Facebook-Comment-Volume-Prediction
+# Facebook Comment Volume Prediction 
 
-**Problem Statement** - 
+**Problem Statement** - Prediction of comment volume traffic or simply to predict how many comments a facebook post is expected to receive in next H hrs after posting.
 
 **Data Summary** - The dataset
 
