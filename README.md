@@ -6,8 +6,6 @@
 
 ![alt text](https://github.com/soumyajt1991/ABC/blob/main/Capture101.PNG)
 
-![alt text](https://github.com/soumyajt1991/ABC/blob/main/Capture102.PNG)
-
 For testing 10 test datasets are provided by selecting at random from 1000 test posts
 
 
