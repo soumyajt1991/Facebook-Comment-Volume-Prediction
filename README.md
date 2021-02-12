@@ -2,7 +2,16 @@
 
 **Problem Statement** - Prediction of comment volume traffic or simply to predict how many comments a facebook post is expected to receive in next H hrs after posting.
 
-**Data Summary** - The dataset
+**Data Summary** - The training dataset had 5 variants. Variant is defined as, how many instances of final training set is derived from single instance/post of training set. This is done by selecting different base date/time for same post at random. Variant - X, defines that, X instances are derived form single training instance. 
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
+
+53 predictors that are
+considered to predict the number of comments in the next H
+hours (see Table 2).
+
 
 **Aproach** -
 1. 
